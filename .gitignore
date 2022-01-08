@@ -1,5 +1,5 @@
 
 *.bak
 *.sqlite3
-
+/.idea/
 /venv/
